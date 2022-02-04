@@ -1,1 +1,1 @@
-# login-logout-vue
+Simple login and logout with registration
